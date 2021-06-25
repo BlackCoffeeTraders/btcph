@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BlackCoffeeTraders.github.io/btcph/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BlackCoffeeTraders.github.io/btcph/static/js/main.c4ffdc04.chunk.js",
+    "main.js.map": "/BlackCoffeeTraders.github.io/btcph/static/js/main.c4ffdc04.chunk.js.map",
+    "runtime-main.js": "/BlackCoffeeTraders.github.io/btcph/static/js/runtime-main.8940d5aa.js",
+    "runtime-main.js.map": "/BlackCoffeeTraders.github.io/btcph/static/js/runtime-main.8940d5aa.js.map",
+    "static/js/2.086dd75e.chunk.js": "/BlackCoffeeTraders.github.io/btcph/static/js/2.086dd75e.chunk.js",
+    "static/js/2.086dd75e.chunk.js.map": "/BlackCoffeeTraders.github.io/btcph/static/js/2.086dd75e.chunk.js.map",
+    "static/js/3.fc61f04a.chunk.js": "/BlackCoffeeTraders.github.io/btcph/static/js/3.fc61f04a.chunk.js",
+    "static/js/3.fc61f04a.chunk.js.map": "/BlackCoffeeTraders.github.io/btcph/static/js/3.fc61f04a.chunk.js.map",
+    "index.html": "/BlackCoffeeTraders.github.io/btcph/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BlackCoffeeTraders.github.io/btcph/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.086dd75e.chunk.js.LICENSE.txt": "/BlackCoffeeTraders.github.io/btcph/static/js/2.086dd75e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BlackCoffeeTraders.github.io/btcph/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8940d5aa.js",
+    "static/js/2.086dd75e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c4ffdc04.chunk.js"
+  ]
+}
